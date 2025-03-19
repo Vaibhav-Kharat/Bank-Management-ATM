@@ -1,0 +1,6 @@
+# Ignore node_modules and build files
+frontend/node_modules/
+frontend/build/
+backend/target/
+*.class
+*.log
